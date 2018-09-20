@@ -2,9 +2,9 @@
 
 "heroes":[
 
-	{"id":1 "name":"Mohsin"}
-	{"id":2 "name":"Usama"}
-	{"id":3 "name":"Haseeb"}
+	{"id":1 ,"name":"Mohsin"},
+	{"id":2 ,"name":"Usama"},
+	{"id":3 ,"name":"Haseeb"}
 
 
 	]
